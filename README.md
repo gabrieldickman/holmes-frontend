@@ -53,7 +53,7 @@ Após finalizar as etapas anteriores, rode o projeto com o comando:
 npm start
 ````
 
-O projeto estará disponível na URL: localhost/3000
+O projeto estará disponível na URL: http://localhost/3000
 
 ### BACK-END
 
