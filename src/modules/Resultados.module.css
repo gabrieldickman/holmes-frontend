@@ -1,0 +1,36 @@
+.resultsContainer{
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #808080;
+  box-shadow: 8px 8px 4px 0px rgba(0, 0, 0, 0.25);
+  margin: 20px 0;
+  border-collapse: collapse;
+}
+
+.table{
+  border-spacing: 0px;
+  table-layout: fixed;
+  margin-left:auto; 
+  margin-right:auto;
+  width: 1000px;
+  text-align: center;
+}
+
+.table th{
+  background-color: #808080;
+}
+
+.table td, .table th {
+  border-bottom: 1px solid #ddd;
+  padding: 20px;
+
+}
+
+a{
+  color: black; 
+  padding: 20px;
+}
+
+a:hover{
+  color: #00689C;
+}

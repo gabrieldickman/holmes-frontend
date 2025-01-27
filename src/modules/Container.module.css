@@ -1,0 +1,21 @@
+.container {
+  background-color: #ffffff;
+  width: 600px;
+  height: 150px;
+  border-radius: 5px;
+  border: 1px solid #808080;
+  box-shadow: 8px 8px 4px 0px rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 0;
+}
+
+.titulo {
+  color: #ffffff;
+}
+
+.tituloContainer {
+  display: flex;
+  justify-content: center; 
+}
